@@ -24,13 +24,14 @@ O objetivo principal deste projeto é demonstrar a integração entre um front-e
     * Newtonsoft.Json (para manipulação JSON)
 
 ## Estrutura do Projeto
-├── Function1.cs             **# Lógica da Azure Function para validação de código de barras**
-├── host.json                **# Configurações do host da Azure Function**
-├── index.html               **# Página HTML principal da aplicação web**
-├── local.settings.json      **# Configurações locais para a Azure Function (inclui CORS)**
-├── Program.cs               **# Ponto de entrada da Azure Function**
-├── script.js                **# Lógica JavaScript para o front-end**
-└── styles.css               **# Estilos CSS da aplicação web**
+* .
+* ├── **Function1.cs**             # Lógica da Azure Function para validação de código de barras
+* ├── **host.json**                # Configurações do host da Azure Function
+* ├── **index.html**               # Página HTML principal da aplicação web
+* ├── **local.settings.json**      # Configurações locais para a Azure Function (inclui CORS)
+* ├── **Program.cs**               # Ponto de entrada da Azure Function
+* ├── **script.js**                # Lógica JavaScript para o front-end
+* └── **styles.css**               # Estilos CSS da aplicação web
 
 ## Screenshots
 
